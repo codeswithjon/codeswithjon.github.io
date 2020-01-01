@@ -7,9 +7,9 @@ It will please some of you that I almost titled this article “Cisco DNA Centre
 
 The best way I personally can convey the answer to the popular question of “What is DNA Centre” is with the two bullet points below:
 
-DNA Centre is a physical controller that you deploy in your Network which then creates a “Controller-Fabric” overlay topology by linking in with your existing Cisco Routers and Switches. The “Controller-Fabric” design means you start thinking and managing your Network as one unit rather than a thousand or so individual pizza boxes.
+- DNA Centre is a physical controller that you deploy in your Network which then creates a “Controller-Fabric” overlay topology by linking in with your existing Cisco Routers and Switches. The “Controller-Fabric” design means you start thinking and managing your Network as one unit rather than a thousand or so individual pizza boxes.
 
-DNA Centre is for customer’s who are planning to go down the Software Defined Solution for their Network. Cisco has future proofed their customer’s by designing DNA Centre from the ground up with API’s to ensure customer’s can take advantage of Network DevOps.
+- DNA Centre is for customer’s who are planning to go down the Software Defined Solution for their Network. Cisco has future proofed their customer’s by designing DNA Centre from the ground up with API’s to ensure customer’s can take advantage of Network DevOps.
 
 Below are some of the top features that you gain as part of the DNA Centre Solution:
 
